@@ -1,0 +1,66 @@
+.App{
+  min-height: 100vh;
+  background-image: linear-gradient(to right, black 60%,#434343 100%);
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.search-form{
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar{
+  width: 50%;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+
+.search-button{
+  background: lightcoral;
+  border:none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 10px 0px 10px 0px;
+}
+
+.cont{
+  display: flex;
+  justify-content: center;
+}
+
+.output{
+  width: 710px;
+  display: flex;
+  overflow-x: auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.headerss{
+  text-align: center;
+  margin: 0px;
+  padding-top: 32px;
+  font-size: 30px;
+
+}
+
+.footerss{
+  background-image: linear-gradient(to right, black 60%,#434343 100%);
+  color: white;
+  text-align: center;
+  padding: 40px;
+  max-height: 150px;
+  font-size: 20px;
+  margin: 0;
+}
+
+@media screen and (max-width:768px){
+  .headerss{
+    font-size: 24px;
+  }
+}
