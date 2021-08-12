@@ -1,7 +1,7 @@
 # Recipe--App
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64c872e2-3adf-4db5-862c-b0ff36ed816e/deploy-status)](https://app.netlify.com/sites/ecstatic-hopper-dc3b5a/deploys)
-![Live Link](https://ecstatic-hopper-dc3b5a.netlify.app/) 
+!Recipe(https://ecstatic-hopper-dc3b5a.netlify.app/) 
 
 ## Creator: Nirmith Victor D'Almeida
 
